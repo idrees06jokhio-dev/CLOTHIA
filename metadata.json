@@ -1,0 +1,8 @@
+
+{
+  "name": "CLOTHIA E-Commerce",
+  "description": "A premium, full-featured e-commerce platform for fashion, featuring a modern design, admin dashboard, and smooth shopping experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
